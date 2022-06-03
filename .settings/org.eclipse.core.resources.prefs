@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/mail/client.java=UTF-8
+encoding//src/mail/clientSocket.java=UTF-8
+encoding//src/mail/database.java=UTF-8
+encoding//src/mail/forgotPass.java=UTF-8
+encoding//src/mail/login.java=UTF-8
+encoding//src/mail/register.java=UTF-8
+encoding//src/mail/server.java=UTF-8
+encoding//src/mail/servera.java=UTF-8
+encoding//src/mail/socketserver.java=UTF-8
